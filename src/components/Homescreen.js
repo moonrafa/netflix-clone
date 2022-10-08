@@ -9,7 +9,8 @@ function Homescreen() {
     <div className="homescreen">
       <Nav />
       <Banner />
-      <Row />
+      {/*
+        <Row /> */}
     </div>
   )
 }
