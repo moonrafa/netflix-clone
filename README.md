@@ -7,6 +7,7 @@
 - Stripe Checkout & Webhooks
 - Redux
 - Firestore
+- Axios
 - Google Auth
 - TMDB API
 
