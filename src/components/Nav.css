@@ -17,7 +17,7 @@
 
 .nav__logo {
   position: fixed;
-  top: 0.625rem;
+  top: 1.25rem;
   left: 0;
   width: 5rem;
   object-fit: contain;
@@ -25,7 +25,7 @@
   cursor: pointer;
 }
 .nav__avatar {
-  top: 0.625rem;
+  top: 1.25rem;
   position: fixed;
   right: 0;
   width: 1.875rem;
