@@ -20,6 +20,7 @@
 }
 
 .login__logo {
+  cursor: pointer;
   top: 0;
   position: fixed;
   left: 0;
@@ -50,6 +51,8 @@
   width: 100%;
   z-index: 1;
   top: 30%;
+  left: 0;
+  right: 0;
 }
 .login__body > h1 {
   font-size: 3.125rem;
@@ -78,7 +81,7 @@
 .login__getStarted {
   background-color: #e50914;
   color: white;
-  padding: 0.68rem 3rem 1.09rem 3rem;
+  padding: 0.66rem 3rem 1.091rem 3rem;
   border: none;
   font-size: 1.5rem;
   font-weight: 500;
