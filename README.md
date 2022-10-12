@@ -14,6 +14,14 @@
 
 ## Demo
 
+- login
+
+<img src="demo/login.png" alt="login">
+
+- sign in/up
+
+<img src="demo/signin.png" alt="sign in">
+
 - homescreen
 
 <img src="demo/homescreen.png" alt="netflix">
