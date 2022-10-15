@@ -26,6 +26,10 @@
 
 <img src="demo/homescreen.png" alt="netflix">
 
+- checkout with stripe
+
+<img src="demo/checkout.png">
+
 ## Author
 
 Rafaelly Rodrigues

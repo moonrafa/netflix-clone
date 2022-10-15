@@ -1,0 +1,18 @@
+.subscriptionPlan__plan {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.25rem 0;
+  opacity: 0.8;
+}
+.subscriptionPlan__plan:hover {
+  opacity: 1;
+}
+.subscriptionPlan__plan > button {
+  color: #fff;
+  background-color: #e50914;
+  border: none;
+  cursor: pointer;
+  padding: 0.625rem 1.25rem;
+  border-radius: 4px;
+  font-weight: 600;
+}
