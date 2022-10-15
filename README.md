@@ -16,19 +16,23 @@
 
 - login
 
-<img src="demo/login.png" alt="login">
+<img src="demo/login.png" alt="Login">
 
 - sign in/up
 
-<img src="demo/signin.png" alt="sign in">
+<img src="demo/signin.png" alt="Sign in">
 
 - homescreen
 
-<img src="demo/homescreen.png" alt="netflix">
+<img src="demo/homescreen.png" alt="Home">
+
+- profile
+
+<img src="demo/profile.png" alt="Profile">
 
 - checkout with stripe
 
-<img src="demo/checkout.png">
+<img src="demo/checkout.png" alt="Checkout">
 
 ## Author
 
