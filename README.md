@@ -1,5 +1,7 @@
 # Netflix Clone with User and Payment Authentication
-
+### User for testing
+email: rrafasrodrigues@gmail.com
+password: 12345678
 ## Tools
 
 - Reactjs
